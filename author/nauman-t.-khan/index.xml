@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nauman T. Khan | Ali Zain</title>
+    <link>https://a-zain.github.io/author/nauman-t.-khan/</link>
+      <atom:link href="https://a-zain.github.io/author/nauman-t.-khan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nauman T. Khan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 20 Jul 2016 21:38:40 -0700</lastBuildDate>
+    <image>
+      <url>https://a-zain.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Nauman T. Khan</title>
+      <link>https://a-zain.github.io/author/nauman-t.-khan/</link>
+    </image>
+    
+    <item>
+      <title>Muasharti Jamhooriat: An Urdu translation of The Ecology of Democracy by David Mathews</title>
+      <link>https://a-zain.github.io/publication/book-ecology/</link>
+      <pubDate>Wed, 20 Jul 2016 21:38:40 -0700</pubDate>
+      <guid>https://a-zain.github.io/publication/book-ecology/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
